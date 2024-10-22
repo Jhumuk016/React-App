@@ -1,0 +1,191 @@
+[
+    {
+        "patient_id": "001",
+        "name": "John Doe",
+        "age": 30,
+        "gender": "Male",
+        "contact": {
+            "phone": "555-1234",
+            "email": "johndoe@example.com"
+        },
+        "medical_history": [
+            {
+                "condition": "Asthma",
+                "diagnosed": "2015-06-20"
+            },
+            {
+                "condition": "Hypertension",
+                "diagnosed": "2018-01-15"
+            }
+        ],
+        "medications": [
+            {
+                "name": "Albuterol",
+                "dosage": "90 mcg",
+                "frequency": "As needed"
+            },
+            {
+                "name": "Lisinopril",
+                "dosage": "10 mg",
+                "frequency": "Once daily"
+            }
+        ],
+        "appointments": [
+            {
+                "date": "2024-11-01",
+                "time": "10:00 AM",
+                "reason": "Routine check-up"
+            }
+        ]
+    },
+    {
+        "patient_id": "002",
+        "name": "Jane Smith",
+        "age": 45,
+        "gender": "Female",
+        "contact": {
+            "phone": "555-5678",
+            "email": "janesmith@example.com"
+        },
+        "medical_history": [
+            {
+                "condition": "Diabetes Type 2",
+                "diagnosed": "2016-08-30"
+            }
+        ],
+        "medications": [
+            {
+                "name": "Metformin",
+                "dosage": "500 mg",
+                "frequency": "Twice daily"
+            }
+        ],
+        "appointments": [
+            {
+                "date": "2024-11-15",
+                "time": "2:00 PM",
+                "reason": "Follow-up visit"
+            }
+        ]
+    },
+    {
+        "patient_id": "003",
+        "name": "Alice Johnson",
+        "age": 28,
+        "gender": "Female",
+        "contact": {
+            "phone": "555-8765",
+            "email": "alicej@example.com"
+        },
+        "medical_history": [
+            {
+                "condition": "Migraine",
+                "diagnosed": "2020-03-12"
+            }
+        ],
+        "medications": [
+            {
+                "name": "Sumatriptan",
+                "dosage": "100 mg",
+                "frequency": "As needed"
+            }
+        ],
+        "appointments": [
+            {
+                "date": "2024-12-05",
+                "time": "1:00 PM",
+                "reason": "Headache management"
+            }
+        ]
+    },
+    {
+        "patient_id": "004",
+        "name": "Bob Brown",
+        "age": 50,
+        "gender": "Male",
+        "contact": {
+            "phone": "555-4321",
+            "email": "bobb@example.com"
+        },
+        "medical_history": [
+            {
+                "condition": "Cholesterol",
+                "diagnosed": "2019-11-20"
+            }
+        ],
+        "medications": [
+            {
+                "name": "Atorvastatin",
+                "dosage": "20 mg",
+                "frequency": "Once daily"
+            }
+        ],
+        "appointments": [
+            {
+                "date": "2024-11-22",
+                "time": "3:00 PM",
+                "reason": "Cholesterol follow-up"
+            }
+        ]
+    },
+    {
+        "patient_id": "005",
+        "name": "Charlie Green",
+        "age": 37,
+        "gender": "Other",
+        "contact": {
+            "phone": "555-1357",
+            "email": "charlieg@example.com"
+        },
+        "medical_history": [
+            {
+                "condition": "Anxiety",
+                "diagnosed": "2021-09-05"
+            }
+        ],
+        "medications": [
+            {
+                "name": "Sertraline",
+                "dosage": "50 mg",
+                "frequency": "Once daily"
+            }
+        ],
+        "appointments": [
+            {
+                "date": "2024-11-10",
+                "time": "11:30 AM",
+                "reason": "Therapy session"
+            }
+        ]
+    },
+    {
+        "patient_id": "006",
+        "name": "Diana Prince",
+        "age": 42,
+        "gender": "Female",
+        "contact": {
+            "phone": "555-2468",
+            "email": "dianap@example.com"
+        },
+        "medical_history": [
+            {
+                "condition": "Hypothyroidism",
+                "diagnosed": "2017-02-14"
+            }
+        ],
+        "medications": [
+            {
+                "name": "Levothyroxine",
+                "dosage": "75 mcg",
+                "frequency": "Once daily"
+            }
+        ],
+        "appointments": [
+            {
+                "date": "2024-11-20",
+                "time": "9:00 AM",
+                "reason": "Thyroid check-up"
+            }
+        ]
+    }
+]
